@@ -14,7 +14,7 @@ This will leverage multiple sources of data including the census and the PUMA da
 
 #### Findings
 
-![linknyc](../num_linknyc_stations_per_100.png)
+![linknyc](num_linknyc_stations_per_100.png)
 
 
 ## NYC Graffiti
@@ -27,4 +27,4 @@ In general this is an exploration exercise to describe where we are seeing these
 
 #### Findings
 
-![graffiti](../Map_Graffiti_Instances.png)
+![graffiti](Map_Graffiti_Instances.png)
