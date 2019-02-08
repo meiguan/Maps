@@ -14,6 +14,8 @@ This will leverage multiple sources of data including the census and the PUMA da
 
 #### Findings
 
+Mapping the linkNYC access points onto PUMA areas across NYC, we see that as you move further away from central Manhattan the number of access points per 100 is dramatically lowered.
+
 ![linknyc](num_linknyc_stations_per_100.png)
 
 
@@ -26,5 +28,7 @@ The NYC Open Data has an interesting dataset on the reported instances of graffi
 In general this is an exploration exercise to describe where we are seeing these instances reported. 
 
 #### Findings
+
+In general was really suprised to see that lower Manhattan specifically by the Lower East Side is a hot spot for reported graffiti instances. 
 
 ![graffiti](Map_Graffiti_Instances.png)
